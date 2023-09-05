@@ -1,0 +1,19 @@
+{
+  "name": "monkeyslegion/env",
+  "description": "Environment variable loader for Monkeyslegion framework",
+  "type": "library",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Monkeyslegion\\Env\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jorge Peraza",
+      "email": "jorge@monkeys.cloud"
+    }
+  ]
+}
